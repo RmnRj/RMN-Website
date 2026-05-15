@@ -1,4 +1,4 @@
-# RC-Terminal Portfolio
+# RC-Terminal Website
 
 **[Link](https://www.ramanchaudhary.com.np)**
 
